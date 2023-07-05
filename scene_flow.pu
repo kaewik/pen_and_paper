@@ -1,0 +1,29 @@
+@startuml
+start
+:Ankunft in Zilia;
+:Die Kundgebung;
+:Der Brief an den Onkel;
+split
+    :The Transporter;
+    split
+        :Durch das Haupttor;
+    split again
+        :Über die Wehrmauer;
+    split again
+        :Durch die Kanalisation;
+    endsplit
+
+    :Onkel Milos Verhör;
+    :Die Übergabe an der Kanalisation;
+split again
+    :Die Verschwörung;
+    split
+        :Winni der Wicht;
+    split again
+        :Der drogenabhängige Hauptmann;
+    split again
+        :Die Agentin der Klüngel;
+    endsplit
+endsplit
+stop
+@enduml
