@@ -63,7 +63,9 @@ Offenbar hatte man Euch in eine Falle gelockt, denn die Söldner kamen aus dem H
 Nach 3 Tagen des erbitterten Kampfes gegen die Söldner war nur noch an Flucht zu denken.
 Nur noch zu fünft und dank eines gottgebenen Glücks konntet ihr durch die Reihen des Feindes entkommen.
 Zwei Tage eielt ihr nun schon durch den Wald, erschöpft, orientierunglos, gebrochen.
-Gestern starb ein weitere Soldat an seinen Verletzung, ihr seid nur noch zu viert, als sich der Wald lichtet und ihr auf Felder und Wiesen blickt.
+Gestern starb ein weiterer Soldat an seinen Verletzung, ihr seid nur noch zu viert.
+Eure Schwerter sind stumpf, die Bogensehnen gerissen und die Schilde geplatzt.
+Als ihr schon jede Hoffung aufgeben wollt, lichtet sicher plötzlich der Wald und ihr blickt auf bunte Felder und grüne Wiesen.
 Ihr wisst nicht wo ihr seid aber am Horizont könnt ihr die Wehrmauern einer kleinen Stadt auf einer Anhöhe umgeben von Ackern und Bauernhöfen erkennen.
 Durstig, von Hunger geplagt und erschöpft bis in die Knochen beschließt ihr einstimmig in dieser Stadt euer Glück zu versuchen.
 
