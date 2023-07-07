@@ -4,7 +4,9 @@ start
 :Die Kundgebung;
 :Der Brief an den Onkel;
 split
-    :The Transporter;
+    (T)
+    detach
+    (T)
     split
         :Durch das Haupttor;
     split again
@@ -14,16 +16,76 @@ split
     endsplit
 
     :Onkel Milos Verhör;
-    :Die Übergabe an der Kanalisation;
-split again
-    :Die Verschwörung;
     split
+        (H)
+        detach
+    split again
+        (W)
+        detach
+    split again
+        :Die Übergabe an der Kanalisation;
+        if ()
+            (Z)
+            detach
+        endif
+        (K)
+        detach
+    endsplit
+split again
+    (V)
+    detach
+    (V)
+    split
+        (W)
+        detach
+        (W)
         :Winni der Wicht;
+        if ()
+            (A)
+            detach
+        else
+            (Z)
+            detach
+            (Z)
+            :Die Zwillinge;
+            :Valerias Unterschlupf;
+            :Die Magierin;
+            (H)
+            detach
+        endif
     split again
-        :Der drogenabhängige Hauptmann;
+        (H)
+        detach
+        (H)
+        :Der gute Hauptmann;
+        split
+            (A)
+            detach
+        split again
+            (W)
+            detach
+        split again
+            (K)
+            detach
+        endsplit
     split again
+        (A)
+        detach
+        (A)
         :Die Agentin der Klüngel;
+        split
+            (W)
+            detach
+        split again
+            (H)
+            detach
+        split again
+            (K)
+            detach
+        endsplit
     endsplit
 endsplit
+(K)
+:Krieg zieht auf;
 stop
 @enduml

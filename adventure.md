@@ -70,14 +70,35 @@ Valeria schreibt einen Brief und lässt ihn von Magierin Lucilla Vendaris (Albin
 Valeria hat dazu ihren Schlägern, Olea (Mensch w., *971, groß, stark und dumm) und Cara (Mensch w., *971, athletisch, flink und schlau), einen Brief zur Übergabe an ihren Kontakt, Onkel Milo (Mensch m., *921 LZ, mürrisch, gebrechlich, Giftmischer), außerhalb der Stadt gegeben.
 Die Schläger haben den Brief an Lediwinus (aka Winni) (Mensch m, *963 LZ, ängstlich, schlacksig, nervös) unter Androhung von schlägen gezwungen den Brief zu überbringen.
 Winni hat Schulden bei Valeria, weil er einen Lieferauftrag von Schnaps versaut hat.
-Der wiederum gibt den Brief einem obdachlosen Mädchen, namens Alyena, und erklärt ihr sie bekomme 5L wenn sie irgendeine armen Trottel mithilfe einer rührseligen Geschichte dazu bringt den Brief aus der Stadt zu schaffen.
+Der wiederum gibt den Brief einem obdachlosen Mädchen, namens Sonja, und erklärt ihr sie bekomme 5L wenn sie irgendeine armen Trottel mithilfe einer rührseligen Geschichte dazu bringt den Brief aus der Stadt zu schaffen.
 Das Mädchen spricht die Spieler an.
 
 ## Parteien
 ### Der Komes, Rubens von Farol
 ### Die Mutter des Komes, Galarina von Farol
 ### Mercatorin in Farol, Rania Ruwensee
-### Die Bandenchefin, Valeria
+### Die Redelsführerin, Valeria Venneck
+
+**Motiv:**
+
+    - Valeria hat die beiden von den Staße in Ultia geholt
+    - bedingungslose Loyalität zu Valeria
+
+**Charakter/Erscheinung:**
+
+    - 61 Jahre, Gnomin, athletisch, flink
+    - großartige Rednerin, sympathisch, grausam
+    - trägt stehts Seide
+
+**Informationen:**
+
+    - weiß von Ranias Plänen Rovencor zu erobern
+
+**Bedeutung:**
+
+    - Schlüsselfigur
+    - ihre Korrespondenz klärt alles auf
+
 ### Die Schlägerzwillinge, Olea und Cara
 
 **Motiv:**
@@ -100,7 +121,7 @@ Das Mädchen spricht die Spieler an.
 
 **Informationen:**
 
-    - kennen Valerias Unterschlupf
+    - kennen Valerias geheimen Unterschlupf
 
 **Bedeutung:**
 
@@ -110,14 +131,58 @@ Das Mädchen spricht die Spieler an.
     -- oder wenn sie sich mit Onkel Milo am Eingang zur Kanalisation treffen
 
 ### Der Schmuggler, Onkel Milo
+
+**Motiv:**
+
+    - arbeitet seit Jahren für Valeria
+
+**Charakter/Erscheinung:**
+
+    - Mensch m, 59 Jahre alt
+    - weißes langes Haar, faltiges Gesicht, recht muskulös
+    - zynisch, grummelig
+
+**Informationen:**
+
+    - kennt Valeria
+    - kennt den Entschlüsselungsspruch "negrobrev saw egiez"
+    - ahnt dass die Mercatoren dahinter stecken
+
+**Bedeutung:**
+
+    - nicht gegeben dass die Spielenden ihn kennenlernen
+    - hier entscheidet sich ob die Spieler endlich begreifen
+    -- entweder sie helfen ihm bei der Übergabe des Gifts
+    -- oder sie halten ihn davon ab
+
 ### Die Magierin, Lucilla Vendaris
+
+**Motiv:**
+
+    - hilft jeder die ihre Forschungen finanziell unterstützt
+
+**Charakter/Erscheinung:**
+
+    - Albin, 141 Jahre alt
+    - weißes langes Haar, heiteres Gesicht, schlank
+    - offen, fröhlich
+
+**Informationen:**
+
+    - kennt Valeria und weiß von dem Brief
+    - kennt den Inhalt des Briefes **nicht**
+    - kennt den Entschlüsselungsspruch "negrobrev saw egiez"
+
+**Bedeutung:**
+
+    - versucht zu leugnen, dass sie den Brief verschlüsselt hat
+    - entschlüsselt den Brief
+
 ### Der Wicht, Lediwinus (aka Winni)
 
 **Motiv:**
 
-    - hat Schulden bei Valeria
-    - hatte einst einen Schmuggelauftrag von Drogen nach Midstadt versaut
-    - Drogen wurden beschlagnahmt und Winni schuldet Valeria 100S
+    - wird von Valeria bedroht
 
 **Charakter/Erscheinung:**
 
@@ -128,7 +193,7 @@ Das Mädchen spricht die Spieler an.
 **Informationen:**
 
     - kennt Valeria und die Schlägerzwillinge
-    - kennt die Lieblingstaverne (Spucknapf) der Schlägerzwillinge
+    - kennt die Stammkneipe (Spucknapf) der Schlägerzwillinge
 
 **Bedeutung:**
 
@@ -137,17 +202,16 @@ Das Mädchen spricht die Spieler an.
     - kann überzeugt werden sich mit den Schlägern zu treffen
     - kann den Spielern den Weg zum Spuknapf zeigen
 
-### Das Straßenmädchen, Alyena
+### Das Straßenmädchen, Sonja
 
 **Motiv:**
 
-    - möchte Geld
+    - wird von Winnie bedroht
 
 **Charakter/Erscheinung:**
 
     - schlau, liebenswürdig, kämpferisch
     - 12 Jahre alt, trägt abgetragene Kleidung, braunes langes fettiges Haar
-    - hat mehrere blaue Flecken im Gesicht
 
 **Informationen:**
 
@@ -165,7 +229,6 @@ Das Mädchen spricht die Spieler an.
 **Motiv:**
 
     - möchte kein Ärger mit seinen Vorgesetzten
-    - Drogensüchtig
     - will das sich alles möglichst von alleine schnell auflöst
 
 **Charakter/Erscheinung:**
@@ -174,6 +237,7 @@ Das Mädchen spricht die Spieler an.
     - 55 Jahre alt, untersetzt, trägt eine sehr eng anliegende Lederrüstung
     - ungepflegter Bard, nur noch graues Haar an den Seiten
     - tiefe, kratzige Stimme
+    - Ketterrüstung und Lanze
 
 **Informationen:**
 
@@ -181,11 +245,9 @@ Das Mädchen spricht die Spieler an.
 
 **Bedeutung:**
 
-    - ist abhängig von Valeria, weil sie ihn mit Drogen ausstattet
-    - versucht die ganze Sache den Midstader Klüngel anzuhängen
+    - verdächtigt den Midstader Klüngel
 
-### Der Kanlzer von Patalis, Severos
-### Die Agentin der Midstader Klüngel, Unbekannt
+### Die Agentin der Midstader Klüngel, Martina Tief
 
 **Motiv:**
 
@@ -198,6 +260,7 @@ Das Mädchen spricht die Spieler an.
     - Gesicht liegt permanent im Schatten der Kapuze
     - 34 Jahre alt, Mensch w., kurze braune Haare, Narben im Gesicht
     - verschiedene Tätowierungen am ganzen Körper
+    - trägt einen Streithammer (versteckt)
 
 **Informationen:**
 

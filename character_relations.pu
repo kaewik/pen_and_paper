@@ -1,0 +1,55 @@
+@startuml
+object Winnie {
+    Klasse = Räuber
+    Waffen = keine
+}
+object Sonja
+object Schlägerzwillinge {
+    Klasse = Söldner
+    Waffen = Streithammer + Schild
+}
+object "Valeria Venneck" as Valeria {
+    Klasse = Orkspäher
+    Waffen = Säbel
+}
+object "Lucilla Vendaris" as Lucilla {
+    Klasse = Zaubermeister
+    Waffe = Langschwert
+}
+object "Rania Ruwensee" as Rania {
+    Klasse = Raubritter
+    Waffen = Langschwert
+}
+object "Rubens von Farol" as Rubens
+object "Galarina von Farol" as Galarina
+object "Onkel Milo" as Milo
+object "Aulus Uttrof" as Aulus {
+    Klasse = Raubritter
+    Waffen = Lanze
+}
+object "Martina Tief" as Martina {
+    Klasse = Söldner
+    Waffen = Streithammer
+}
+
+Winnie --> Sonja : bedroht
+Sonja ..> Winnie : kennt Wohnort
+Schlägerzwillinge --> Winnie : bedrohen
+Winnie ..> Schlägerzwillinge : kennt Stammkneipe
+Winnie ..> Valeria : weiß von Zusammenarbeit mit Schlägerzwillingen
+Valeria --> Schlägerzwillinge : befehligt
+Schlägerzwillinge ..> Valeria : haben Zugang zu geheimen Unterschlupf
+Schlägerzwillinge ..> Valeria : wissen von Lucilla als Magierin in Diensten
+Valeria --> Lucilla : kauft magische Dienste
+Rania --> Valeria : manipuliert durch Versprechen auf höheren Stand
+Galarina --> Rania : befehligt (stellvetretend)
+Rania --> Galarina : manipuliert durch Versprechen auf höheres Ansehen der Familie von Farol
+Rubens --> Galarina : lässt sich vertreten
+Rania --> Rubens : will umbringen
+Milo --> Valeria : beliefert Valeria mit Schmuggelware
+Valeria --> Milo : möchte Kontaktgift bestellen
+Rubens --> Aulus : beauftragt die Verschwörer zu finden
+Aulus ..> Rubens : hat großen Respekt
+Aulus ..> Martina : verdächtigt den Klüngel
+Martina ..> Rubens : verachtet
+@enduml
