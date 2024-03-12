@@ -1,5 +1,30 @@
 #set heading(numbering: "1.")
 #set text(12pt, font: "HK Grotesk", lang: "de")
+#set page(
+  numbering: "1",
+  background: locate(loc =>
+    if loc.page() > 1 {
+      if calc.odd(loc.page()) [
+        #grid(
+          columns: (90%, 10%),
+          rows: (90%, 10%),
+          [], [#rect(width: 100%, height: 100%, fill: gradient.linear(..(white, aqua)))],
+          [#rect(width: 100%, height: 100%, fill: gradient.linear(..(white, aqua), angle: 90deg))],
+          [#rect(width: 100%, height: 100%, fill: gradient.radial(..(white, aqua), center: (0%, 0%), radius: 100%))]
+        )
+      ]
+      else [
+        #grid(
+          columns: (10%, 90%),
+          rows: (10%, 90%),
+          [#rect(width: 100%, height: 100%, fill: gradient.radial(..(white, aqua), center: (100%, 100%), radius: 100%))],
+          [#rect(width: 100%, height: 100%, fill: gradient.linear(..(white, aqua), angle: -90deg))],
+          [#rect(width: 100%, height: 100%, fill: gradient.linear(..(white, aqua), dir: rtl))], []
+        )
+      ]
+    }
+  )
+)
 #show heading: it => text(fill: blue.darken(50%), it)
 #set table(fill: (col, row) =>
   if row == 0 { aqua }
@@ -7,6 +32,7 @@
   stroke: blue.lighten(40%)
 )
 #show link: set text(style: "italic")
+
 #let quest = (name, employer, task, reward, notes) => block(breakable: false, table(
   columns: (auto, auto),
   [*Questname*], [#name],
