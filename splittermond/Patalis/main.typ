@@ -82,12 +82,20 @@
   [Weckt meine Großmutter und meinen Sohn.],
   [50L],
   [
-    - in Nähe der Großmutter ist Feenweltübergang
+    - Großmutter bildet Feenweltübergang
     - im Sommernachtstraum schläft Szon ein Traumwesen in einem Loch im Baum
-    - Großmutter besitzt eine winzige Rose in Glas (Verbindung der Welten)
-    - Glas muss zerstört werden
-    - Weg zurück ist die Oberfläche eines Teichs
+    - Großmutter besitzt eine winziges Traumblatt von Sasipanije in Glas (Verbindung der Welten)
+    - Glas muss zerstört werden oder da gelassen werden
+    - Weg zurück ist die Oberfläche eines Teichs oder die Treppen im Baum
     - Feenweltexperten können in Caleria befragt werden
+    - Baum besitzt Treppen nach oben und unten mit insgesamt 4 Stockwerken
+      - Stockwerk 1 (Diesseits): Charatere erwachen, wenn sie auf diese Stufe kommen
+      - Stockwerk 2 (Friedlicher Traum): Ewige Wiese, schlafender Szon, verwandelt sich in Wolf wenn geweckt
+      - Stockwerk 3 (Starker Traum): Szon ist Sinnbild eines lebendigen Traumes einer Person aus Lorakis
+          - Themen: Wut, Angst, Neid, Lust, Macht, etc.
+      - Stockwerk 4 (Traumreich): Seen (Träume), Szons Berg, Sasipanije Baum des Einschlafens im Wald
+        - Großmutter irrt im Wald von Sasipanije
+        - Nebelkreaturen wandern auch im Wald
   ]
 )
 #quest(
@@ -266,6 +274,24 @@
 
 #pagebreak(weak: true)
 = Kreaturen
+
+== Kleien Nebelkreatur
+
+#creature(stats: (
+ AUS: "2", BEW: "2", INT: "3", KON: "2", MYS: "1", STÄ: "3", VER: "2", WIL: "2", GK: "5", GSW: "7", LP: "7", FO: "26", VTD: "18", SR: "0", KW: "16", GW: "16",
+), weapons: (
+  ("Waffen", "Wert", "Schaden", "WGS", "INI", "Merkmale"),
+  ("Körper", "10", "1W6", "7", "8", "Stumpf"),
+  ("Nebelklinge", "14", "1W6+2", "9", "7", "-"),
+), info: (
+  Typus: "Monster, Humanoider, Schattenwesen",
+  Monstergrad: "1 / 1",
+  Fertigkeiten: "Entschlossenheit 8, Wahrnehmung 12, Beherrschungsmagie 12",
+  Zauber: "Beherrschung I: Furcht (S. 230)",
+  Meisterschaften: "",
+  Merkmale: "Furchterregend (15) S. 11 Bestarium, Schmerzresistenz",
+  Beute: "-",
+))
 
 == Landpeitschen Befallener Seemann <Landpeitsche>
 
@@ -482,8 +508,8 @@ Wie oft auf diese Tabelle geworfen wird ist der Spielleitung überlassen.
  - Gruppe findet Wachsein vom Sohn der Händlerin, _Offizier Wandlerose (20 Jahre, Mensch)_
  - Larisanos schläft neben Großmutter ein und wacht in Traumwelt auf (ewig weite Wiese und Baum mit Loch)
  - Larisanos findet schlafenden Jungen (10 Jahre) im Baum und Treppe nach oben und unten
- - Larisanos findet heraus, dass Junge verwandelt sich wenn man ihn wecken möchte
- - Iva find Larisanos Wachsein wieder
+ - Larisanos findet heraus, dass sich Junge verwandelt wenn man ihn wecken möchte
+ - Iva findet Larisanos Wachsein wieder
  - Larisanos und Aldon gehen zu _Magierin, Alyena Sestani (Albin, sehr gut gekleidet)_
  - Iva und Felessan beschatten _Offizier Wandlerose_, erfolglos
  - Magierin gibt Larisanos eine Schriftrolle mit Zauber "Gedächtnis schützen"
